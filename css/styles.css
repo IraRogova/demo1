@@ -1,4 +1,10 @@
-body {
-    background-color: #fff;
-    color: antiquewhite;
+:root {
+    --basic-color-black:#303030;
+    --accent-color:#FF6C00;
+    --basic-white:#FFFFFF;
+    --basic-color-grey: #9da4bd;
+    --second-color-black: #555555;
+    --color-rgba:rgba(157, 164, 189, 0.6);
+    --rgba-2:rgba(157, 164, 189, 0.4);
 }
+
